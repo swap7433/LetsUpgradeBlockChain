@@ -1,0 +1,56 @@
+Assignment 1-Blockchain
+
+Question 1: What is your understanding of Blockchain?
+
+Ans- Blockchain is a combination of two technologies that is Distributed Database and Cryptography.
+Blockchain is used to make the information- 
+1)verifiable
+2)Unchangeable
+3)Tamper-proof
+4)Immutable
+
+In Blockchain the number of blocks is connected to each others in a chronological manner.Each block contains the following information
+1)Block number
+2)Transaction records
+3)Previous block signature
+4)Mining Key
+
+Blockchain uses Secure Hash Algorithm(SHA) for encryption or generating the key. In Blockchain the first block is called as Genesis Block. The copy of the same information is stored on the multiple computers there for the block signature must be same for all the computers if any one computer has the different signature as compare to other computers then he must need to update his information in order to achieve correct data.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 2: What is the core problem Blockchain trying to solve?
+
+Ans- Blockchain is trying to solve the following problem
+1)Security of data
+2)Tampering of data
+3)Authenticity of data
+
+---------------------------------------------------------------------------------------------------------------
+
+Question 3: What are the few features which Blockchain will give you? 
+
+Ans-Following Are the features Blockchain will provide you regarding your information.
+1)verifiable
+2)Unchangeable
+3)Tamper-proof
+4)Immutable
+
+---------------------------------------------------------------------------------------------------------------
+
+Question 4: What all things does a Block contain?
+
+Ans- Each block contains the following information
+1)Block number
+2)Transaction records
+3)Previous block signature
+4)Mining Key 
+
+
+---------------------------------------------------------------------------------------------------------------
+
+Question 5: How is the verifiability of Blockchain has been attained?
+
+Ans- Blockchain uses distributed database where the copies of data is stored on multiple computers in multiple locations. if someone made changes in data on their computer then the signature of block will change. after making changes on the systems everyone will check their signature with each other if the signaature is matched then it means the data is correct if the signature is not matched then it means the data is wrong in some manner on someones computer. 
+
+Most of the people have same signature have the correct data and other people need to update their data in order to gain the correct data. he can tae the copy of that data from other person whose location is near to him. after updating the data the signature must be match with others. This is how the verifiability can be achieve in Blockchain.        
